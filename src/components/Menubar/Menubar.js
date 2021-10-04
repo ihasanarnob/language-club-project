@@ -8,7 +8,7 @@ const Menubar = () => {
     return (
       <div className="py-4">
          <Navbar>
-          <Container >
+          <Container className="container-fluid" >
             <Nav className="me-auto nav-links ">
               <NavLink to ="/home" style={linkStyle} >Home</NavLink>
               <NavLink to ="/services"style={linkStyle}>Services</NavLink>
