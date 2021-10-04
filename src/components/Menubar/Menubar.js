@@ -3,10 +3,10 @@ import { Container, Nav, Navbar } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 
 const Menubar = () => {
-    const linkStyle = { fontSize:'20px', textDecoration:'none',color:'antiquewhite',padding:'10px'}
+    const linkStyle = { fontSize:'20px', textDecoration:'none',color:'antiquewhite',paddingRight:'20px'}
 
     return (
-      <div className="py-4">
+      <div className="me-5">
          <Navbar>
           <Container className="container-fluid" >
             <Nav className="me-auto nav-links ">

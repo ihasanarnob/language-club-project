@@ -4,7 +4,7 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div className=" d-flex justify-content-between banner">
+        <div className=" banner">
             <div>
                 <h3 className="heading p-3" >Titan Japanese Language Center</h3>
             </div>
