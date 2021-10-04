@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"text": "MINNANO NIHONGO 1",
+		"course": "N-5 Long Course",
+		"duration": "6 Months",
+		"fees": 20000,
+		"image": "https://cdn.getting-digital.net/wp-content/uploads/2020/05/Learn-Japanese-JLPT-N5-Kanji-Quizzes-Worksheets.jpg"
+	},
+	{
+		"id": 2,
+		"text": "MINNANO NIHONGO 2",
+		"course": "N-5 Short Course",
+		"duration": "3 Months",
+		"fees": 10000,
+		"image": "https://cdn.innovativelanguage.com/members/japanesepod101/images/learning-paths/original/458_5f1a42ee431d4.png"
+	},
+	{
+		"id": 3,
+		"text": "CHUKYU E IKO & CHUKYU KARA",
+		"course": "N-4 Level Course",
+		"duration": "6 Months",
+		"fees": 20000,
+		"image": "https://www.filepicker.io/api/file/1x9FtJ5xQ4jejtI45esg"
+	},
+	{
+		"id": 4,
+		"text": "MANABU NIHONGO",
+		"course": "N-3 Level Course",
+		"duration": "7 Months",
+		"fees": 25000,
+		"image": "https://cdn.innovativelanguage.com/members/japanesepod101/images/learning-paths/original/205_597641a1282de.png"
+	},
+	{
+		"id": 5,
+		"text": "CHUKYU E IKO & CHUKYU KARA",
+		"course": "N-4 Short Course",
+		"duration": "4 Months",
+		"fees": 12000,
+		"image": "https://www.filepicker.io/api/file/1x9FtJ5xQ4jejtI45esg"
+	},
+	{
+		"id": 6,
+		"text": "All Text",
+		"course": "N-(5 + 4) Combined Course",
+		"duration": "8 Months",
+		"fees": 30000,
+		"image": "https://play-lh.googleusercontent.com/5frY1pVM90S-_nNGww2s0h9eDdHFKTreTG0PVVkmvX-PNLNVmV46aMHXp8IvRFmgoWo"
+	},
+	{
+		"id": 7,
+		"text": "MINNANO NIHONGO",
+		"course": "N-(1+2) Combined Course",
+		"duration": "7 Months",
+		"fees": 14000,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnFnKjQAuj8hcV-fxAlV5T4nmhYtMVTZwEkg&usqp=CAU"
+	},
+	{
+		"id": 8,
+		"text": "CHUKYU E IKO & CHUKYU KARA",
+		"course": "N-2 Beginner Course",
+		"duration": "4 Months",
+		"fees": 11000,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMytOaN2uSaL5Hn7fXeFn00oHEpLhOWtUZFA&usqp=CAU"
+	},
+	{
+		"id": 9,
+		"text": "All Text",
+		"course": "N-1 Crash Course",
+		"duration": "3 Months",
+		"fees": 13000,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMkfgNSAWj0uAfwfwlbSIhl8fk2D5OQD17JA&usqp=CAU"
+	}
+]

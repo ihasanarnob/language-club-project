@@ -1,0 +1,24 @@
+import React from 'react';
+import { Container, Nav, Navbar } from 'react-bootstrap';
+import { NavLink } from 'react-router-dom';
+
+const Menubar = () => {
+    const linkStyle = { fontSize:'20px', textDecoration:'none',color:'antiquewhite',padding:'10px'}
+
+    return (
+      <div className="py-4">
+         <Navbar>
+          <Container >
+            <Nav className="me-auto nav-links ">
+              <NavLink to ="/home" style={linkStyle} >Home</NavLink>
+              <NavLink to ="/services"style={linkStyle}>Services</NavLink>
+              <NavLink to ="/about" style={linkStyle}>About</NavLink>
+              <NavLink to ="/activities"style={linkStyle}>Activities</NavLink>
+            </Nav>
+          </Container>
+         </Navbar>
+      </div>
+    );
+};
+
+export default Menubar;
