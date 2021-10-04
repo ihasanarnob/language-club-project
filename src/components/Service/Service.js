@@ -19,7 +19,7 @@ const Service = () => {
 
             {
                 courses.map(course => 
-                    <div className="container mt-5 shadow-lg p-3 mb-5 bg-body rounded card mb-3" style={{maxWidth: "800px"}}>
+                    <div key = {course.id} className="container mt-5 shadow-lg p-3 mb-5 bg-body rounded card mb-3" style={{maxWidth: "800px"}}>
                     <div className="row g-0">
                     <div className="col-md-4">
                          <img src={course.image} className="img-fluid rounded-start" alt="..."/>
