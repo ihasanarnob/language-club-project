@@ -11,4 +11,4 @@ Website Live Link attached [Titan Japanese Language](https://titan-language.netl
   - We hope Bangladeshi people can know Japanese and world cultures to expand their own world and enrich their lives.
 
 - More
-  - In Titan Japanese Language Center , native Japanese teachers take classes in Japanese, Bengali and English. Students can watch Japanese movies and animations, and know about latest Japanese culture. They can also learn business manners through our Japanese classes.
+  - In Titan Japanese Language Center , native Japanese teachers take classes in Japanese, Bengali and English. Students can watch Japanese movies and animations, and know about latest Japanese culture. They can also learn business manners through our Japanese classes...
